@@ -1,0 +1,5 @@
+- 👋 Hi, I’m **@mc-slava** and this is my work profile on Github
+- 🥼 I work for **Accenture Latvia** and live in **Riga**
+- 👀 I’m interested in **open-source projects**, **Kubernetes & container orchestraion technologies**, **modern public clouds** & **automation**
+- 🌱 I’m currently learning **golang**
+- 💞️ I’m looking to collaborate on **open-source projects** on my own pace
